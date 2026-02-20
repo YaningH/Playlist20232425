@@ -211,12 +211,10 @@
 
 
   .site-footer {
-    padding: 40px 20px;
-    border-top: 1px solid rgba(46,184,76,0.15);
-    font-size: 0.65rem;
-    opacity: 0.4;
+    padding: 20px 20px;
+    font-size: 1rem;
+    opacity: 0.5;
     text-transform: uppercase;
-    letter-spacing: 0.1em;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
